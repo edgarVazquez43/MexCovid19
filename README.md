@@ -6,8 +6,8 @@ Datos obtenidos de [Comunicado Técnico Diario Oficial Mexico](http://www.gob.mx
 # Casos acumulados por estado en los tres últimos días (Actualizado 6 Abril)
 ![](https://github.com/edgarVazquez43/MexCovid19/blob/master/casos_acumulados_estados.jpeg "Logo Title Text 2")
 
-# Casos acumulados por estado en los tres últimos días (Actualizado 6 Abril)
+# Casos acumulados en total en el país  (Actualizado 6 Abril)
 ![](https://github.com/edgarVazquez43/MexCovid19/blob/master/casos_acumulados_total.jpeg "Logo Title Text 2")
 
-# Casos acumulados por estado en los tres últimos días (Actualizado 6 Abril)
+# Casos nuevos registrados por día (Actualizado 6 Abril)
 ![](https://github.com/edgarVazquez43/MexCovid19/blob/master/casos_nuevos_dia.jpeg "Logo Title Text 2")
